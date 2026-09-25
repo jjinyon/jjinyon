@@ -6,11 +6,11 @@
 
 동형암호 · 프라이버시 보존 AI
 
+📧 **dddyyt1226@khu.ac.kr**
+
 [![GitHub](https://img.shields.io/badge/GitHub-jjinyon-181717?style=flat-square&logo=github)](https://github.com/jjinyon)
 [![Research](https://img.shields.io/badge/Research-FHE-4169E1?style=flat-square)](https://github.com/jjinyon/fhe-research-lab)
 [![Award](https://img.shields.io/badge/2026-해커톤%20대상-D4AF37?style=flat-square)](https://github.com/dav3park/2026_KhuThon)
-
-📧 **dddyyt1226@khu.ac.kr**
 
 </div>
 
@@ -36,32 +36,6 @@
 - 프라이버시 보존 머신러닝
 - CKKS · TFHE · OpenFHE
 - 암호화된 신경망 추론
-
-## 🧠 Currently Exploring
-
-🔐 **Homomorphic Encryption**  
-CKKS · Noise Growth · Bootstrapping
-
-🤖 **Privacy-Preserving AI**  
-Encrypted Neural Network Inference
-
-🧪 **Research & Implementation**  
-OpenFHE · Reproducible Experiments
-
-## 🗺️ Research Roadmap
-
-**Foundations**  
-Lattice Cryptography → CKKS / TFHE → FHE Fundamentals
-
-↓
-
-**Implementation**  
-OpenFHE → Encrypted Computation → Experimental Evaluation
-
-↓
-
-**Research**  
-Privacy-Preserving Inference → Information Leakage → Interactive FHE
 
 ## 🚀 프로젝트
 
@@ -103,32 +77,6 @@ Grand Prize · Team Project
 - CKKS · TFHE · OpenFHE
 - Encrypted Neural Network Inference
 
-## 🧠 Currently Exploring
-
-🔐 **Homomorphic Encryption**  
-CKKS · Noise Growth · Bootstrapping
-
-🤖 **Privacy-Preserving AI**  
-Encrypted Neural Network Inference
-
-🧪 **Research & Implementation**  
-OpenFHE · Reproducible Experiments
-
-## 🗺️ Research Roadmap
-
-**Foundations**  
-Lattice Cryptography → CKKS / TFHE → FHE Fundamentals
-
-↓
-
-**Implementation**  
-OpenFHE → Encrypted Computation → Experimental Evaluation
-
-↓
-
-**Research**  
-Privacy-Preserving Inference → Information Leakage → Interactive FHE
-
 ## 🚀 Projects
 
 | Project | Description |
@@ -144,15 +92,5 @@ Privacy-Preserving Inference → Information Leakage → Interactive FHE
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenFHE](https://img.shields.io/badge/OpenFHE-4169E1?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-<div align="center">
-
-📧 **dddyyt1226@khu.ac.kr**
-
-*프라이버시 보존 AI의 기반을 탐구합니다.*
-
-*Exploring the foundations of privacy-preserving AI.*
 
 </div>
