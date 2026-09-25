@@ -92,12 +92,5 @@ Grand Prize · Team Project
 ![OpenFHE](https://img.shields.io/badge/OpenFHE-4169E1?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-<div align="center">
-
-*프라이버시 보존 AI의 기반을 탐구합니다.*
-
-*Exploring the foundations of privacy-preserving AI.*
 
 </div>
