@@ -1,104 +1,103 @@
 
-# Hi, I'm Jinyong Hwang 👋
+<div align="center">
 
-### AI Undergraduate Student | Homomorphic Encryption | Privacy-Preserving AI
+# 황진용 | Jinyong Hwang
 
-I'm an undergraduate student majoring in Artificial Intelligence at **Kyung Hee University**, South Korea.
+**경희대학교 인공지능학과 | AI Undergraduate**
 
-I'm interested in the intersection of **cryptography, machine learning, and data privacy**. My current focus is on understanding how homomorphic encryption can enable secure computation on sensitive data without revealing the underlying information.
+동형암호 · 프라이버시 보존 AI
 
-I enjoy exploring challenging problems, understanding their mathematical foundations, and turning ideas into practical experiments.
+[![GitHub](https://img.shields.io/badge/GitHub-jjinyon-181717?style=flat-square&logo=github)](https://github.com/jjinyon)
+[![Research](https://img.shields.io/badge/Research-FHE-4169E1?style=flat-square)](https://github.com/jjinyon/fhe-research-lab)
+[![Award](https://img.shields.io/badge/2026-해커톤%20대상-D4AF37?style=flat-square)](https://github.com/dav3park/2026_KhuThon)
+
+</div>
 
 ---
+
+# 🇰🇷 한국어
+
+## 🎓 학력
+
+**경희대학교 인공지능학과**  
+2학년 1학기 이수
+
+## 🏆 수상 경력
+
+**2026 경희대학교 해커톤 대상**  
+팀 프로젝트
+
+[프로젝트 저장소 →](https://github.com/dav3park/2026_KhuThon)
+
+## 🔬 연구 관심 분야
+
+- 완전동형암호(FHE)
+- 프라이버시 보존 머신러닝
+- CKKS · TFHE · OpenFHE
+- 암호화된 신경망 추론
+
+## 🚀 프로젝트
+
+| 프로젝트 | 설명 |
+|---|---|
+| [FHE Research Lab](https://github.com/jjinyon/fhe-research-lab) | 동형암호 실험 및 연구 |
+| [AIMap](https://github.com/jjinyon/AIMap) | AI 기반 장소 추천 |
+| [2026 KhuThon](https://github.com/dav3park/2026_KhuThon) | 해커톤 팀 프로젝트 · 대상 |
+
+## 🛠️ 기술 스택
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenFHE](https://img.shields.io/badge/OpenFHE-4169E1?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+# 🇺🇸 English
+
+## 🎓 Education
+
+**Kyung Hee University**  
+B.S. in Artificial Intelligence  
+Completed 2nd Year, 1st Semester
+
+## 🏆 Awards
+
+**2026 Kyung Hee University Hackathon**  
+Grand Prize · Team Project
+
+[View Project Repository →](https://github.com/dav3park/2026_KhuThon)
 
 ## 🔬 Research Interests
 
-My main research interests lie in **Fully Homomorphic Encryption (FHE)** and privacy-preserving machine learning.
-
-- **Fully Homomorphic Encryption (FHE)** — Computation on encrypted data without decryption.
-- **Privacy-Preserving Machine Learning** — Secure neural network inference over encrypted inputs.
-- **CKKS & TFHE** — Understanding approximate and exact homomorphic computation.
-- **Encrypted Neural Network Inference** — Studying noise growth, activation functions, and computational constraints.
-- **Interactive Homomorphic Encryption** — Exploring client-assisted computation and intermediate refresh techniques.
-- **Privacy and Information Leakage** — Investigating what encrypted inference outputs may reveal about private inputs.
-
----
-
-## 🧪 Currently Exploring
-
-- Building a research environment with **OpenFHE** and Python.
-- Understanding the mathematical foundations of lattice-based cryptography and homomorphic encryption.
-- Studying the trade-offs between privacy, computational efficiency, and inference accuracy.
-- Exploring research questions around encrypted neural network inference and client-assisted computation.
-- Developing reproducible experiments to test research ideas.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-### Cryptography & Machine Learning
-![OpenFHE](https://img.shields.io/badge/OpenFHE-Homomorphic%20Encryption-4B6CB7?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
+- Fully Homomorphic Encryption (FHE)
+- Privacy-Preserving Machine Learning
+- CKKS · TFHE · OpenFHE
+- Encrypted Neural Network Inference
 
 ## 🚀 Projects
 
-### 🔐 FHE Research Lab
-**Exploring Homomorphic Encryption with OpenFHE**
+| Project | Description |
+|---|---|
+| [FHE Research Lab](https://github.com/jjinyon/fhe-research-lab) | Homomorphic Encryption Experiments |
+| [AIMap](https://github.com/jjinyon/AIMap) | AI-Powered Local Place Discovery |
+| [2026 KhuThon](https://github.com/dav3park/2026_KhuThon) | Hackathon Team Project · Grand Prize |
 
-A research-oriented workspace for learning, implementing, and experimenting with homomorphic encryption.
+## 🛠️ Tech Stack
 
-- Exploring CKKS and encrypted arithmetic.
-- Building reproducible experiments for encrypted computation.
-- Studying the practical constraints of privacy-preserving inference.
-
-[View Repository](https://github.com/jjinyon/fhe-research-lab)
-
-### 🗺️ AIMap
-**AI-Powered Local Place Discovery**
-
-A project exploring personalized place recommendations using location, preferences, and contextual information.
-
-- Developing a recommendation-oriented application.
-- Exploring how AI can improve local discovery experiences.
-
-[View Repository](https://github.com/jjinyon/AIMap)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenFHE](https://img.shields.io/badge/OpenFHE-4169E1?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🎯 Research Goals
+<div align="center">
 
-- Develop a deeper understanding of the mathematics behind homomorphic encryption.
-- Identify meaningful research problems in privacy-preserving machine learning.
-- Build reproducible experiments and communicate findings through code and technical writing.
-- Explore research opportunities in homomorphic encryption and secure AI.
+*프라이버시 보존 AI의 기반을 탐구합니다.*
 
----
+*Exploring the foundations of privacy-preserving AI.*
 
-## 📚 Learning & Documentation
-
-I document what I learn through code, experiments, and technical notes.
-
-My goal is to connect mathematical foundations with practical implementations and develop ideas that can lead to meaningful research.
-
----
-
-## 📫 Connect with Me
-
-- GitHub: [@jjinyon](https://github.com/jjinyon)
-- Email: Add your preferred public email here.
-
----
-
-*Learning, experimenting, and exploring the foundations of privacy-preserving AI.*
+</div>
